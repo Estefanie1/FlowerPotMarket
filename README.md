@@ -12,7 +12,8 @@ Step One:
 - Having a community
 - Popup Market to meet them all\Event
 
-
+![GitHub Logo](https://github.com/Estefanie1/FlowerPotMarket/blob/master/Flowerpot%20Logo%20(1).png)
+Format: ![Alt Text](url)
 
 
 Step Two:
