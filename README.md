@@ -13,7 +13,7 @@ Step One:
 - Popup Market to meet them all\Event
 
 ![GitHub Logo](https://github.com/Estefanie1/FlowerPotMarket/blob/master/Flowerpot%20Logo%20(1).png)
-Format:250x250 !
+Format:100x100 !
 
 
 Step Two:
