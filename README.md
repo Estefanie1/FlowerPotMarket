@@ -1,5 +1,5 @@
 # Community Artisan Market
-
+![GitHub Logo](https://github.com/Estefanie1/FlowerPotMarket/blob/master/Flowerpot%20Logo%20(1).png)!
 Online Market
 
 https://www.canva.com/design/DADVRVm8qM8/ZJvkzwFqMCPtP317ShXepw/edit?category=tACZChe47fQ#
@@ -12,7 +12,7 @@ Step One:
 - Having a community
 - Popup Market to meet them all\Event
 
-![GitHub Logo](https://github.com/Estefanie1/FlowerPotMarket/blob/master/Flowerpot%20Logo%20(1).png)!
+
 
 
 Step Two:
