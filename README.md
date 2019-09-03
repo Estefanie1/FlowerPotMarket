@@ -12,7 +12,7 @@ Step One:
 - Reaching out to Artisans
 - Having a community
 - Popup Market to meet them all\Event
-
+-Flyer : https://www.canva.com/design/DADkcWaGy24/o6nQOzYEKoqdcEKRIZV0Hw/edit?category=tACZCh01txM
 
 
 
