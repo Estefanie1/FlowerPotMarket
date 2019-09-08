@@ -6,6 +6,10 @@ https://www.canva.com/design/DADVRVm8qM8/ZJvkzwFqMCPtP317ShXepw/edit?category=tA
 
 ![GitHub Logo](https://github.com/Estefanie1/FlowerPotMarket/blob/master/Flowerpot%20Logo%20(1).png)!
 
+Flyer:
+
+https://www.canva.com/design/DADkcWaGy24/o6nQOzYEKoqdcEKRIZV0Hw/edit
+
 Step One:
 
 - Logo/Name
